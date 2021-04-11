@@ -10,3 +10,9 @@
    
 <p align="center"> 🎓 learning Technology, Software Testing and Management Processes </p>
    
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisellykds&hide=TeX&layout=compact" />
+</p>
+
